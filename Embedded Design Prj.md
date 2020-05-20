@@ -1,4 +1,4 @@
-![image-20200518213906325](C:\Users\罗屺\AppData\Roaming\Typora\typora-user-images\image-20200518213906325.png)
+![image-20200518213906325](https://raw.githubusercontent.com/Rayassss/Homework/master/Related%20Pic/image-20200518213906325.png)
 
 # 一个综合的设计任务
 
@@ -18,9 +18,9 @@
 
 ### 硬件电路
 
-![image-20200519113617496](D:\Desktop\Ray_Homework\image-20200519113617496.png)
+![image-20200519113617496](https://raw.githubusercontent.com/Rayassss/Homework/master/Related%20Pic/image-20200519113617496.png)
 
-![image-20200519113812726](D:\Desktop\Ray_Homework\image-20200519113812726.png)
+![image-20200519113812726](https://raw.githubusercontent.com/Rayassss/Homework/master/Related%20Pic/image-20200519113812726.png)
 
 #### MCU
 
@@ -47,11 +47,11 @@
 
 #### 时钟树
 
-![时钟树](D:\Desktop\Ray_Homework\时钟树.png)
+![时钟树](https://raw.githubusercontent.com/Rayassss/Homework/master/Related%20Pic/时钟树.png)
 
 #### 电源树
 
-![电源树](D:\Desktop\Ray_Homework\电源树.jpg)
+![电源树](https://raw.githubusercontent.com/Rayassss/Homework/master/Related%20Pic/电源树.jpg)
 
 ### 程序
 
@@ -77,9 +77,9 @@
 ##### 温湿度检测
 
 - 根据时序图初始化DHT11，首先主机至少拉低总线18ms，后恢复拉高总线20-40us等待从机的80us左右的低电平响应，若检验到连接成功的信号则总线拉高准备接受数据
-- ![image-20200519115229899](D:\Desktop\Ray_Homework\image-20200519115229899-1589940589600.png)
+- ![image-20200519115229899](https://raw.githubusercontent.com/Rayassss/Homework/master/Related%20Pic/image-20200519115229899-1589940589600.png)
 
-##### ![image-20200519115246397](D:\Desktop\Ray_Homework\image-20200519115246397.png)
+##### ![image-20200519115246397](https://raw.githubusercontent.com/Rayassss/Homework/master/Related%20Pic/image-20200519115246397.png)
 
 ##### 在LCD上动态绘制温湿度曲线
 
